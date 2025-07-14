@@ -57,5 +57,15 @@ video {
     border-radius:5px;
 }
 
+.reveal section div {
+  /* clamp(valeurMini, taille en fonction de la fenêtre, valeurMax) */
+  font-size: clamp(
+     14px,   /* taille min */
+     1.8vw,  /* 1.8% de la largeur de la fenêtre */
+     24px    /* taille max */
+  );
+  line-height: 1.5;
+}
+
 
 
