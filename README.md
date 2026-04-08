@@ -1,1 +1,1 @@
-[Diaporama](https://https://laurentabbal.github.io/keio/)
+[Diaporama](https://laurentabbal.github.io/keio/)
